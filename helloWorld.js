@@ -1,0 +1,10 @@
+console.log("Hello JS, I am Arya");
+var num;
+console.log(num);
+var num="10";
+console.log(num);
+var myName="Arya";
+console.log(myName);
+console.log("First Name:",myName);
+myName="Arya Patil";
+console.log("Full Name:",myName);
