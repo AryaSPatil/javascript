@@ -9,3 +9,4 @@ function stringBasics() {
   console.log(`Total number of characters: ${charSum}`);
 }
 stringBasics();
+
